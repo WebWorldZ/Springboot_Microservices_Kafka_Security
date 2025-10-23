@@ -1,6 +1,8 @@
+# <u>Spring Boot Microservices Kafka Project with Spring Security</u>
+
 This is a demo **Spring Boot** appliation developed to understand the basics of **Microservices** Architecture, **Async Communication** between microservices using **Kafka** and **Security** within Microservices.
 
-This project is designed based on <a href="https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/">MYSQL Sample Database</a> .    
+This project is designed based on <a href="https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/">MYSQL Sample Database</a>.    
 
 <img width="879" height="761" alt="mysql-sample-database" src="https://github.com/user-attachments/assets/3bcb83c6-110d-4da5-b7f7-32c9efe95e6e" />
 
